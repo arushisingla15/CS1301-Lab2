@@ -1,0 +1,17 @@
+{
+  "chart_title": "Average Daily Phone Use and Focus",
+  "data_points": [
+    {
+      "label": "Avg Screen Time (hrs)",
+      "value": 5
+    },
+    {
+      "label": "Avg Focus Level (1–10)",
+      "value": 6
+    },
+    {
+      "label": "Avg Productivity (1–10)",
+      "value": 7
+    }
+  ]
+}
